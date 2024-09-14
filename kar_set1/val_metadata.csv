@@ -1,0 +1,20 @@
+image_link,group_id,entity_name,entity_value,value,unit,expected_file_name,file_exists
+https://m.media-amazon.com/images/I/81RNsNEM1EL.jpg,731432,item_weight,200 gram,200.0,gram,731432_18.jpg,True
+https://m.media-amazon.com/images/I/81S2+GnYpTL.jpg,731432,item_weight,200 gram,200.0,gram,731432_16.jpg,True
+https://m.media-amazon.com/images/I/51fVq92ErcL.jpg,299791,item_weight,3.6 gram,3.6,gram,299791_714.jpg,True
+https://m.media-amazon.com/images/I/71In1fvGSwL.jpg,459516,item_volume,4.0 fluid ounce,4.0,fluid ounce,459516_172.jpg,True
+https://m.media-amazon.com/images/I/61NpoOFjk6L.jpg,459516,item_weight,100 gram,100.0,gram,459516_356.jpg,True
+https://m.media-amazon.com/images/I/71YiRw3e1lL.jpg,630869,item_weight,3.0 pound,3.0,pound,630869_101.jpg,True
+https://m.media-amazon.com/images/I/6103+YwyRPL.jpg,641642,wattage,750.0 watt,750.0,watt,641642_807.jpg,True
+https://m.media-amazon.com/images/I/61kyBEJYDeL.jpg,459516,item_weight,500 milligram,500.0,milligram,459516_96.jpg,True
+https://m.media-amazon.com/images/I/71Btb49O2dL.jpg,731432,item_weight,180 gram,180.0,gram,731432_127.jpg,True
+https://m.media-amazon.com/images/I/81K3JwUCnQL.jpg,752266,wattage,30.0 watt,30.0,watt,752266_45.jpg,True
+https://m.media-amazon.com/images/I/71l0M0tMGjL.jpg,365637,item_weight,200.0 gram,200.0,gram,365637_75.jpg,True
+https://m.media-amazon.com/images/I/61a9koe6-KL.jpg,881883,item_weight,180.0 gram,180.0,gram,881883_1122.jpg,True
+https://m.media-amazon.com/images/I/71nsfFCXF0L.jpg,459516,item_volume,30.0 millilitre,30.0,millilitre,459516_66.jpg,True
+https://m.media-amazon.com/images/I/71WPthvpGeL.jpg,524635,item_weight,28.0 gram,28.0,gram,524635_1547.jpg,True
+https://m.media-amazon.com/images/I/71yqAwAikaL.jpg,731432,item_weight,180 gram,180.0,gram,731432_123.jpg,True
+https://m.media-amazon.com/images/I/91-iahVGEDL.jpg,281678,item_weight,100 gram,100.0,gram,281678_15.jpg,True
+https://m.media-amazon.com/images/I/61Z5XF4-aIL.jpg,281678,item_weight,250 gram,250.0,gram,281678_599.jpg,True
+https://m.media-amazon.com/images/I/71+fn9TWQmL.jpg,524635,item_weight,18.55 gram,18.55,gram,524635_30.jpg,True
+https://m.media-amazon.com/images/I/61d6Kj80QSL.jpg,365637,item_weight,200.0 gram,200.0,gram,365637_73.jpg,True

@@ -1,0 +1,21 @@
+image_link,group_id,entity_name,entity_value,value,unit,expected_file_name,file_exists
+https://m.media-amazon.com/images/I/713zyVRNccL.jpg,529606,item_weight,552 gram,552.0,gram,529606_857.jpg,True
+https://m.media-amazon.com/images/I/91prZeizZnL.jpg,731432,item_weight,200 gram,200.0,gram,731432_19.jpg,True
+https://m.media-amazon.com/images/I/61SmT8pkLtL.jpg,529606,item_weight,2 ounce,2.0,ounce,529606_68.jpg,True
+https://m.media-amazon.com/images/I/71jBLhmTNlL.jpg,731432,item_weight,1400 milligram,1400.0,milligram,731432_9.jpg,True
+https://m.media-amazon.com/images/I/81R8CrWXthL.jpg,731432,item_weight,1000.0 milligram,1000.0,milligram,731432_118.jpg,True
+https://m.media-amazon.com/images/I/71hgN7yu9OL.jpg,459516,item_volume,30.0 millilitre,30.0,millilitre,459516_67.jpg,True
+https://m.media-amazon.com/images/I/71E7CU55dcL.jpg,810266,item_weight,160.0 gram,160.0,gram,810266_55.jpg,True
+https://m.media-amazon.com/images/I/71WLYfmMqQL.jpg,254449,item_weight,50.0 milligram,50.0,milligram,254449_93.jpg,True
+https://m.media-amazon.com/images/I/611UdEWakYL.jpg,523149,item_weight,7.5 gram,7.5,gram,523149_377.jpg,True
+https://m.media-amazon.com/images/I/71eATPu53YL.jpg,731432,item_weight,13.0 gram,13.0,gram,731432_117.jpg,True
+https://m.media-amazon.com/images/I/71G8XyPqcIL.jpg,630869,item_weight,9.2 gram,9.2,gram,630869_113.jpg,True
+https://m.media-amazon.com/images/I/51T1Kh7WWGL.jpg,299791,item_weight,4.1 gram,4.1,gram,299791_112.jpg,True
+https://m.media-amazon.com/images/I/71ZtDgGX+iL.jpg,299791,item_weight,8.1 gram,8.1,gram,299791_69.jpg,True
+https://m.media-amazon.com/images/I/716AQpAJjZL.jpg,731432,item_weight,227 gram,227.0,gram,731432_82.jpg,True
+https://m.media-amazon.com/images/I/71qiWPgPcUS.jpg,908443,item_weight,264.0 gram,264.0,gram,908443_119.jpg,True
+https://m.media-amazon.com/images/I/51q9OE6hfgL.jpg,459516,item_volume,200.0 millilitre,200.0,millilitre,459516_111.jpg,True
+https://m.media-amazon.com/images/I/71nywfWZUwL.jpg,179080,item_weight,4.1 kilogram,4.1,kilogram,179080_24.jpg,True
+https://m.media-amazon.com/images/I/71Oo4M3ApxL.jpg,752266,wattage,60.0 watt,60.0,watt,752266_138.jpg,True
+https://m.media-amazon.com/images/I/51Alw-4+zJL.jpg,308856,item_weight,20.0 kilogram,20.0,kilogram,308856_115.jpg,True
+https://m.media-amazon.com/images/I/51eGoOSfx4L.jpg,459516,item_volume,2006.0 gallon,2006.0,gallon,459516_351.jpg,True
